@@ -1,5 +1,8 @@
 ## Olá! Eu sou Marcos Antonio 👋
 
+- 📚 Graduando em Ciências da Computação na UFCG
+- 💻 Atuo como Desenvolvedor Front-End Web
+          
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-antonio-18059b234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_sa16/)
 
