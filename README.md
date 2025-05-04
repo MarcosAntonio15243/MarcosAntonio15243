@@ -1,7 +1,5 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUvmRVTI-0fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732659931626?e=1752105600&v=beta&t=trcRAjAgzkwoF45LxQl4i2ERvvHaHanFxGkAHbJXajg" alt="Descrição da imagem" width="100%" />
 
-<br />
-
 # Hi! I'm Marcos Antonio! 👋
 
 <span style="padding-right:2px;">![GitHub User's stars](https://img.shields.io/github/stars/marcosantonio15243?style=flat&color=brightgreen)</span>
@@ -31,11 +29,8 @@ I am a full stack developer dedicated to building complete solutions, combining 
   <img alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
-
-
 ## 📊  GitHub Stats
 ![Marcos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosantonio15243&show_icons=true&theme=dracula&hide_title=true)
-
 
 ## 📞 Contact Me
 
