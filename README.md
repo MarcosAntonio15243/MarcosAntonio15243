@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUvmRVTI-0fw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732659931626?e=1752105600&v=beta&t=trcRAjAgzkwoF45LxQl4i2ERvvHaHanFxGkAHbJXajg" alt="Descrição da imagem" width="100%" />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQFRcqpFY8y_sQ/profile-displaybackgroundimage-shrink_350_1400/B4DZatit3zGwAY-/0/1746668283021?e=1752105600&v=beta&t=wjUumtfo8KvqbXj014L-vbfDIW4EKDje-ej9zD6kEYE" alt="Descrição da imagem" width="100%" />
 
 # Hi! I'm Marcos Antonio! 👋
 
@@ -26,7 +26,6 @@ I am a full stack developer dedicated to building complete solutions, combining 
   <img alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
 ## 📊  GitHub Stats
