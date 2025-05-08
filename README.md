@@ -4,7 +4,7 @@
 
 <span style="padding-right:2px;">![GitHub User's stars](https://img.shields.io/github/stars/marcosantonio15243?style=flat&color=brightgreen)</span>
 <span style="padding-right:2px;">![GitHub followers](https://img.shields.io/github/followers/marcosantonio15243?label=Followers&style=flat&color=brightgreen)</span>
-<span style="padding-right:2px;">![GitHub repos](https://img.shields.io/badge/public%20repos-10-blue?label=Repos&style=flat&color=brightgreen)</span>
+<span style="padding-right:2px;">![GitHub repos](https://img.shields.io/badge/public%20repos-5-blue?label=Repos&style=flat&color=brightgreen)</span>
 
 I am a full stack developer dedicated to building complete solutions, combining the development of modern, functional interfaces with the implementation of robust back-end architectures. I am committed to technical excellence, continuous improvement, and delivering projects that drive value and innovation for clients and partners.
 
@@ -30,8 +30,8 @@ I am a full stack developer dedicated to building complete solutions, combining 
 </p>
 
 ## 📊  GitHub Stats
-![Marcos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosantonio15243&show_icons=true&theme=dracula&hide_title=true)
 
+![Marcos Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosantonio15243&show_icons=true&theme=dracula)
 ## 📞 Contact Me
 
 Get in touch through the following channels:
