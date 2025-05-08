@@ -26,6 +26,7 @@ I am a full stack developer dedicated to building complete solutions, combining 
   <img alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub logo" width="35px" src="https://img.icons8.com/ios-glyphs/ffffff/github.png" />
 </p>
 
 ## 📊  GitHub Stats
