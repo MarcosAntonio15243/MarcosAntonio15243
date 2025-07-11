@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQFRcqpFY8y_sQ/profile-displaybackgroundimage-shrink_350_1400/B4DZatit3zGwAY-/0/1746668283021?e=1752105600&v=beta&t=wjUumtfo8KvqbXj014L-vbfDIW4EKDje-ej9zD6kEYE" alt="Descrição da imagem" width="100%" />
+<img align="center" src="./assets/cover-photo.png" alt="Descrição da imagem" width="100%" />
 
 # Hi! I'm Marcos Antonio! 👋
 
